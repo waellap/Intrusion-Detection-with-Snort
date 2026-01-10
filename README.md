@@ -85,4 +85,49 @@ Lap photo demonstration
 <br />
 <br />
 
+- Using Snorpy to create a Snort tcp rule. 
 
+<img src="https://imgur.com/4ho4sud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+- Testing the rules.
+
+<img src="https://imgur.com/TZVKPb9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/PHq7d7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/LR2aCYT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+- Adding the EternalBlue rule to the community rules and exploiting Windows 7.  
+
+
+<img src="https://imgur.com/fLG6Cbt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/wKUelUO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/s1vVDoY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+- All logs will be saved in /var/log/snort. We can access them via Wireshark. I  logged the  alerts instead of the console, and I wrote fast.
+
+  
+<img src="https://imgur.com/RKFCssF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/EdEM0xa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+- The logged alerts.
+<img src="https://imgur.com/qv0UAT3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
