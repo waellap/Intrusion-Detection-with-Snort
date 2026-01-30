@@ -121,7 +121,7 @@ Lap photo demonstration
 - All logs will be saved in /var/log/snort. We can access them via Wireshark. I  logged the  alerts instead of the console, and I wrote fast.
 
   
-<img src="https://imgur.com/RKFCssF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vNDlwLI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://imgur.com/EdEM0xa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
